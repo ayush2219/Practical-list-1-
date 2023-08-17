@@ -14,7 +14,7 @@ int main()
 	cout<<num1+num2;
 	
 	cout<<"Student Name  :: Dholariya Ayush Prafulbhai"<<endl;
-    cout<<"Enrollment no :: 220130318022";
+    	cout<<"Enrollment no :: 220130318022";
 
 	return 0;
 }
