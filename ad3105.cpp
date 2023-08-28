@@ -1,4 +1,4 @@
-//write a program to convert fahrenheit into celsius using class.
+//write a c++ program to swap two number
 #include<iostream>
 using namespace std;
 int main()
